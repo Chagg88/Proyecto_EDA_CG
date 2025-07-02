@@ -27,7 +27,7 @@ Proyecto_EDA_CG/
 │   ├── 01_EDA_preliminar_bank
 │   ├── 02_Limpieza_datos_bank
 │   ├── 03_Analisis_col_categoricas_bank
-│   └── 04_Analisis_col_numericas_bank
+│   └── 04_Analisis_col_numericas_bank   # Output final
 │
 └── README.md
 ``` 
